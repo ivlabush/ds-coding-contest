@@ -7,7 +7,4 @@ public class RedBlackTreeImpl implements RedBlackTree {
 
     }
 
-    public void remove(Object obj) {
-
-    }
 }
